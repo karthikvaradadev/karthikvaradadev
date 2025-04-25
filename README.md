@@ -1,4 +1,4 @@
-Here's an updated introduction that incorporates your expertise:
+
 
 "My name is Karthik Varada, and I am passionate about DevOps, AIops, and Mlops. Currently, 
 I am focused on mastering DevOps, with a strong foundation in utilizing 
